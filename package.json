@@ -1,0 +1,29 @@
+{
+  "name": "ts-learning",
+  "version": "1.0.0",
+  "description": "typescript learning",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint src --ext .ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jypblue/ts-learning.git"
+  },
+  "keywords": [
+    "ts"
+  ],
+  "author": "zx.wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jypblue/ts-learning/issues"
+  },
+  "homepage": "https://github.com/jypblue/ts-learning#readme",
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-alloy": "^1.4.2",
+    "eslint-plugin-typescript": "^0.14.0",
+    "typescript": "^3.2.2",
+    "typescript-eslint-parser": "^21.0.2"
+  }
+}
